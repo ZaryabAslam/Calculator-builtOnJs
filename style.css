@@ -1,0 +1,47 @@
+.main {
+    border: 2px solid gray;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: gray;
+
+}
+
+#screen {
+    width: 495px;
+    height: 80px;
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+}
+
+.clear {
+    width: 499px;
+    margin: 7px 0;
+    height: 60px;
+    padding: 2px;
+    background-color: black;
+}
+
+.btn {
+    /* margin: 5px 16px; */
+    width: 96px;
+    height: 60px;
+    font-size: 40px;
+    background-color: black;
+}
+
+.clear,
+.btn {
+    border: 1px solid white;
+    font-size: 40px;
+    color:gray;
+}
+
+.clear:hover,
+.btn:hover {
+    background-color: white;
+}
+.display{
+    font-size: 50px;
+}
